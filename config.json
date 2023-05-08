@@ -1,0 +1,5 @@
+{
+  "data_url": "https://opendata.utah.gov/resource/s9t3-bccv.json",
+  "json_file_path": "dataset.json",
+  "strategy": "redis"
+}
